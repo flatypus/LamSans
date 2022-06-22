@@ -7,8 +7,9 @@ An aesthetic font created entirely from the notes of my high school physics teac
 ![image](https://user-images.githubusercontent.com/68029599/169218423-826144b5-bac8-498a-b9cf-e3aa34f98dc2.png)
 
 ## LamSans-Full
- 
-![image](https://user-images.githubusercontent.com/68029599/175101916-02483ddc-8a5e-4bae-848b-53fa35cdd277.png)
+
+![image](https://user-images.githubusercontent.com/68029599/175102238-a4431fed-e536-42cb-95d0-9bc6d360323c.png)
+
 
 ## LamSans-OnlyCaps
 
